@@ -1,3 +1,3 @@
 # WinFormAppShop
 
-WinForm client with connecion to WCF services.
+WinForm client with connection to WCF services.
